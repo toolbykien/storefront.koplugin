@@ -1677,7 +1677,7 @@ msgid "Status: Update available"
 msgstr "Trạng thái: Có bản cập nhật mới"
 
 msgid "Storefront"
-msgstr "Cửa hàng Storefront"
+msgstr "KOReader AppStore"
 
 msgid "Storefront cache refreshed."
 msgstr "Đã làm mới bộ nhớ đệm Storefront."
