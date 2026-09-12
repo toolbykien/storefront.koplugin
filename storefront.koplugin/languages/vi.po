@@ -1,0 +1,2185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\" Mr. Bennet replied that he had not. \"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\" Mr. Bennet made no answer."
+msgstr "\"Ông Bennet thân mến,\" một ngày nọ phu nhân nói với ông, \"ông đã nghe chuyện trang viên Netherfield cuối cùng cũng có người thuê chưa?\" Ông Bennet trả lời rằng ông chưa nghe. \"Nhưng đúng là vậy đấy,\" bà đáp; \"vì bà Long vừa mới ở đây về, và bà ấy đã kể hết cho tôi nghe.\" Ông Bennet không đáp lời."
+
+msgid "%d Categories"
+msgstr "%d danh mục"
+
+msgid "%d patches"
+msgstr "%d bản vá"
+
+msgid "%d plugins"
+msgstr "%d plugin"
+
+msgid "%d wallpapers"
+msgstr "%d hình nền"
+
+msgid "%d wallpapers found in this folder"
+msgstr "Tìm thấy %d hình nền trong thư mục này"
+
+msgid "%d wallpapers stored on device"
+msgstr "%d hình nền được lưu trên thiết bị"
+
+msgid "%d wallpapers · Folder Shuffle (all in rotation)"
+msgstr "%d hình nền · Xáo trộn thư mục (tất cả theo vòng lặp)"
+
+msgid "%d wallpapers · Mode: Book Cover"
+msgstr "%d hình nền · Chế độ: Bìa sách"
+
+msgid "%d wallpapers · Single mode active"
+msgstr "%d hình nền · Đang bật chế độ đơn"
+
+msgid "%s and %s"
+msgstr "%s và %s"
+
+msgid "%s is up to date (version %s)."
+msgstr "%s đã là phiên bản mới nhất (phiên bản %s)."
+
+msgid "%s is up to date."
+msgstr "%s đã là phiên bản mới nhất."
+
+msgid "%s needs an update."
+msgstr "%s cần được cập nhật."
+
+msgid "%s · %d files"
+msgstr "%s · %d tệp"
+
+msgid "%s · 1 file"
+msgstr "%s · 1 tệp"
+
+msgid "(fork)"
+msgstr "(bản fork)"
+
+msgid "(showing %d of %d commits)"
+msgstr "(hiển thị %d trên %d commit)"
+
+msgid "+ Add to Shuffle Pool"
+msgstr "+ Thêm vào danh sách xáo trộn"
+
+msgid "+ New"
+msgstr "+ Mới"
+
+msgid ".. (Parent Folder)"
+msgstr ".. (Thư mục cha)"
+
+msgid "1 / 1"
+msgstr "1 / 1"
+
+msgid "1 patch"
+msgstr "1 bản vá"
+
+msgid "1 plugin"
+msgstr "1 plugin"
+
+msgid "< Back"
+msgstr "< Quay lại"
+
+msgid "< Prev"
+msgstr "< Trước"
+
+msgid "?"
+msgstr "?"
+
+msgid "A -> Z"
+msgstr "A -> Z"
+
+msgid "A → Z"
+msgstr "A → Z"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "About Storefront"
+msgstr "Giới thiệu Storefront"
+
+msgid "Active Single"
+msgstr "Hình đơn đang hoạt động"
+
+msgid "Active Wallpaper ✓"
+msgstr "Hình nền đang hoạt động ✓"
+
+msgid "Active: %s"
+msgstr "Đang hoạt động: %s"
+
+msgid "Add to Shuffle"
+msgstr "Thêm vào xáo trộn"
+
+msgid "Added to shuffle pool & Folder Shuffle enabled!"
+msgstr "Đã thêm vào danh sách xáo trộn & đã bật Xáo trộn thư mục!"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "All Caches"
+msgstr "Tất cả bộ nhớ đệm"
+
+msgid "All Categories"
+msgstr "Tất cả danh mục"
+
+msgid "All Types"
+msgstr "Tất cả loại"
+
+msgid "All items are up to date."
+msgstr "Tất cả mục đều đã là mới nhất."
+
+msgid "All of your custom plugin folders are currently hidden (see Manage plugin paths). Install to the default plugin folder anyway?"
+msgstr "Tất cả các thư mục plugin tùy chỉnh của bạn hiện đang bị ẩn (xem phần Quản lý đường dẫn plugin). Bạn vẫn muốn cài đặt vào thư mục plugin mặc định chứ?"
+
+msgid "All patches"
+msgstr "Tất cả bản vá"
+
+msgid "All plugins"
+msgstr "Tất cả plugin"
+
+msgid "All plugins are already matched."
+msgstr "Tất cả plugin đã được liên kết."
+
+msgid "Allow pre-release updates"
+msgstr "Cho phép cập nhật phiên bản thử nghiệm (pre-release)"
+
+msgid "Alphabet & Numbers"
+msgstr "Chữ cái & Chữ số"
+
+msgid "Also delete plugin settings"
+msgstr "Đồng thời xóa cài đặt plugin"
+
+msgid "Always install here (don't ask again)"
+msgstr "Luôn cài đặt tại đây (không hỏi lại)"
+
+msgid "Any"
+msgstr "Bất kỳ"
+
+msgid "App Store · Installed patches"
+msgstr "Cửa hàng ứng dụng · Bản vá đã cài đặt"
+
+msgid "App Store · Installed plugins"
+msgstr "Cửa hàng ứng dụng · Plugin đã cài đặt"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "Assets — %s"
+msgstr "Tài nguyên — %s"
+
+msgid "Author"
+msgstr "Tác giả"
+
+msgid "Back"
+msgstr "Quay lại"
+
+msgid "Batch update cancelled."
+msgstr "Đã hủy cập nhật hàng loạt."
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "Black Fill"
+msgstr "Tô đen"
+
+msgid "Blank"
+msgstr "Trống"
+
+msgid "Book Cover"
+msgstr "Bìa sách"
+
+msgid "Border Fill / Background"
+msgstr "Tô viền / Nền"
+
+msgid "Both owner and repository name are required."
+msgstr "Yêu cầu phải có cả tên chủ sở hữu và tên kho lưu trữ."
+
+msgid "Branch: %s"
+msgstr "Nhánh: %s"
+
+msgid "Browse Wallpapers in Storefront"
+msgstr "Duyệt hình nền trong Storefront"
+
+msgid "By "
+msgstr "Bởi "
+
+msgid "By: %s"
+msgstr "Bởi: %s"
+
+msgid "Cache empty. Refresh to retrieve repositories."
+msgstr "Bộ nhớ đệm trống. Hãy làm mới để tải danh sách kho lưu trữ."
+
+msgid "Cache is older than a week, consider refreshing."
+msgstr "Bộ nhớ đệm đã cũ hơn một tuần, bạn nên làm mới."
+
+msgid "Cached %s patch repositories."
+msgstr "Đã lưu đệm %s kho lưu trữ bản vá."
+
+msgid "Cached %s plugins."
+msgstr "Đã lưu đệm %s plugin."
+
+msgid "Can't load readme...."
+msgstr "Không thể tải readme...."
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Cancel matching"
+msgstr "Hủy liên kết"
+
+msgid "Cannot read source file."
+msgstr "Không thể đọc tệp nguồn."
+
+msgid "Cannot write destination file."
+msgstr "Không thể ghi tệp đích."
+
+msgid "Catalog & Cache"
+msgstr "Danh mục & Bộ nhớ đệm"
+
+msgid "Catalog refresh failed: "
+msgstr "Làm mới danh mục thất bại: "
+
+msgid "Catalog refresh is already in progress in the background."
+msgstr "Quá trình làm mới danh mục đang chạy ngầm."
+
+msgid "Catalog refreshed successfully."
+msgstr "Đã làm mới danh mục thành công."
+
+msgid "Catalog source"
+msgstr "Nguồn danh mục"
+
+msgid "Catalog updated: %d plugins, %d patches, %d fonts."
+msgstr "Danh mục đã cập nhật: %d plugin, %d bản vá, %d phông chữ."
+
+msgid "Categories"
+msgstr "Danh mục"
+
+msgid "Category: "
+msgstr "Danh mục: "
+
+msgid "Category: %s"
+msgstr "Danh mục: %s"
+
+msgid "Change..."
+msgstr "Thay đổi..."
+
+msgid ""
+"Changelog for %s\n"
+"%s → %s"
+msgstr ""
+"Nhật ký thay đổi của %s\n"
+"%s → %s"
+
+msgid "Changelog: %s"
+msgstr "Nhật ký thay đổi: %s"
+
+msgid "Check Updates"
+msgstr "Kiểm tra cập nhật"
+
+msgid "Check all updates"
+msgstr "Kiểm tra tất cả bản cập nhật"
+
+msgid "Check for updates"
+msgstr "Kiểm tra cập nhật"
+
+msgid "Check this patch"
+msgstr "Kiểm tra bản vá này"
+
+msgid "Check this plugin"
+msgstr "Kiểm tra plugin này"
+
+msgid "Checked %d patches: %d need updates, %d up to date."
+msgstr "Đã kiểm tra %d bản vá: %d cần cập nhật, %d đã mới nhất."
+
+msgid "Checked %d plugin(s) for updates."
+msgstr "Đã kiểm tra cập nhật cho %d plugin."
+
+msgid "Checking %s…"
+msgstr "Đang kiểm tra %s…"
+
+msgid "Checking for Storefront updates…"
+msgstr "Đang kiểm tra bản cập nhật cho Storefront…"
+
+msgid "Checking patch updates…"
+msgstr "Đang kiểm tra cập nhật bản vá…"
+
+msgid "Checking plugin updates…"
+msgstr "Đang kiểm tra cập nhật plugin…"
+
+msgid "Choose Build — %s"
+msgstr "Chọn bản dựng — %s"
+
+msgid "Clear"
+msgstr "Xóa"
+
+msgid "Clear All"
+msgstr "Xóa tất cả"
+
+msgid "Clear All Caches?"
+msgstr "Xóa tất cả bộ nhớ đệm?"
+
+msgid "Clear Cache"
+msgstr "Xóa bộ nhớ đệm"
+
+msgid "Clear README Cache?"
+msgstr "Xóa bộ nhớ đệm README?"
+
+msgid "Clear Thumbnail Cache?"
+msgstr "Xóa bộ nhớ đệm hình thu nhỏ?"
+
+msgid "Clear Wiki Cache?"
+msgstr "Xóa bộ nhớ đệm Wiki?"
+
+msgid "Clear cache…"
+msgstr "Xóa bộ nhớ đệm…"
+
+msgid "Clear search & filters"
+msgstr "Xóa tìm kiếm & bộ lọc"
+
+msgid "Clear search/filters"
+msgstr "Xóa tìm kiếm/bộ lọc"
+
+msgid "Cleared README cache (%s freed)."
+msgstr "Đã xóa bộ nhớ đệm README (giải phóng %s)."
+
+msgid "Cleared Wiki cache (%s freed)."
+msgstr "Đã xóa bộ nhớ đệm Wiki (giải phóng %s)."
+
+msgid "Cleared all caches (%s freed, %d files)."
+msgstr "Đã xóa tất cả bộ nhớ đệm (giải phóng %s, %d tệp)."
+
+msgid "Cleared screensaver thumbnails (%s freed)."
+msgstr "Đã xóa hình thu nhỏ màn hình chờ (giải phóng %s)."
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Collection"
+msgstr "Bộ sưu tập"
+
+msgid "Commit diff: %s → %s"
+msgstr "Khác biệt commit: %s → %s"
+
+msgid "Commits: %s → %s"
+msgstr "Commit: %s → %s"
+
+msgid "Community"
+msgstr "Cộng đồng"
+
+msgid "Config files only"
+msgstr "Chỉ các tệp cấu hình"
+
+msgid "Configured ✓"
+msgstr "Đã cấu hình ✓"
+
+msgid "Confirm"
+msgstr "Xác nhận"
+
+msgid "Confirm Update"
+msgstr "Xác nhận cập nhật"
+
+msgid "Confirm Update All"
+msgstr "Xác nhận cập nhật tất cả"
+
+msgid ""
+"Connecting to GitHub…\n"
+"\n"
+"Please wait."
+msgstr ""
+"Đang kết nối tới GitHub…\n"
+"\n"
+"Vui lòng đợi."
+
+msgid "Connecting…"
+msgstr "Đang kết nối…"
+
+msgid "Continue"
+msgstr "Tiếp tục"
+
+msgid "Copied to '%s'."
+msgstr "Đã sao chép vào '%s'."
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Copy file as"
+msgstr "Sao chép tệp thành"
+
+msgid "Could not detect .koplugin folder in archive"
+msgstr "Không tìm thấy thư mục .koplugin trong kho lưu trữ"
+
+msgid "Could not detect plugin inside archive."
+msgstr "Không tìm thấy plugin bên trong kho lưu trữ."
+
+msgid "Could not fetch commit comparison."
+msgstr "Không thể lấy thông tin so sánh commit."
+
+msgid "Could not fetch releases for changelog."
+msgstr "Không thể lấy thông tin phát hành cho nhật ký thay đổi."
+
+msgid "Could not fetch releases for this repository."
+msgstr "Không thể lấy các bản phát hành cho kho lưu trữ này."
+
+msgid "Could not locate plugin folder (_meta.lua) in archive."
+msgstr "Không tìm thấy thư mục plugin (_meta.lua) trong kho lưu trữ."
+
+msgid "Create"
+msgstr "Tạo"
+
+msgid "Create subfolder in '%s':"
+msgstr "Tạo thư mục con trong '%s':"
+
+msgid "Created '%s'"
+msgstr "Đã tạo '%s'"
+
+msgid "Custom folder"
+msgstr "Thư mục tùy chỉnh"
+
+msgid "Default"
+msgstr "Mặc định"
+
+msgid "Default folder"
+msgstr "Thư mục mặc định"
+
+msgid "Default only"
+msgstr "Chỉ mặc định"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Delete '%s' from your device?"
+msgstr "Xóa '%s' khỏi thiết bị của bạn?"
+
+msgid "Delete File?"
+msgstr "Xóa tệp?"
+
+msgid "Delete Wallpaper?"
+msgstr "Xóa hình nền?"
+
+msgid "Delete all cached README files? They will be re-downloaded on demand."
+msgstr "Xóa tất cả các tệp README đã lưu trong bộ nhớ đệm? Chúng sẽ được tải lại khi cần."
+
+msgid ""
+"Delete file '%s'?\n"
+"\n"
+"This cannot be undone."
+msgstr ""
+"Xóa tệp '%s'?\n"
+"\n"
+"Hành động này không thể hoàn tác."
+
+msgid "Delete font '%s'?"
+msgstr "Xóa phông chữ '%s'?"
+
+msgid "Delete patch"
+msgstr "Xóa bản vá"
+
+msgid "Delete patch '%s'?"
+msgstr "Xóa bản vá '%s'?"
+
+msgid "Delete plugin"
+msgstr "Xóa plugin"
+
+msgid "Delete plugin '%s'?"
+msgstr "Xóa plugin '%s'?"
+
+msgid "Deleted %d cached README file(s)."
+msgstr "Đã xóa %d tệp README trong bộ nhớ đệm."
+
+msgid "Deleted %d cached README file(s); %d failed."
+msgstr "Đã xóa %d tệp README trong bộ nhớ đệm; %d tệp thất bại."
+
+msgid "Deleted '%s'."
+msgstr "Đã xóa '%s'."
+
+msgid "Direct GitHub API"
+msgstr "GitHub API trực tiếp"
+
+msgid "Disable"
+msgstr "Tắt"
+
+msgid "Disable patch"
+msgstr "Tắt bản vá"
+
+msgid "Disable plugin"
+msgstr "Tắt plugin"
+
+msgid "Disabled"
+msgstr "Đã tắt"
+
+msgid "Display Options"
+msgstr "Tùy chọn hiển thị"
+
+msgid "Displays a static wallpaper on sleep"
+msgstr "Hiển thị hình nền tĩnh khi ở chế độ ngủ"
+
+msgid "Done"
+msgstr "Xong"
+
+msgid "Download & Set Active"
+msgstr "Tải về & Đặt làm hình nền chính"
+
+msgid "Download Only"
+msgstr "Chỉ tải về"
+
+msgid "Download cancelled."
+msgstr "Đã hủy tải về."
+
+msgid "Download failed: "
+msgstr "Tải về thất bại: "
+
+msgid "Download options"
+msgstr "Tùy chọn tải về"
+
+msgid "Download options — %s"
+msgstr "Tùy chọn tải về — %s"
+
+msgid "Download options — %s (%s)"
+msgstr "Tùy chọn tải về — %s (%s)"
+
+msgid ""
+"Downloading %s%s…\n"
+"Tap screen to cancel."
+msgstr ""
+"Đang tải %s%s…\n"
+"Chạm vào màn hình để hủy."
+
+msgid "Downloading %s…"
+msgstr "Đang tải %s…"
+
+msgid ""
+"Downloading %s…\n"
+"Tap screen to cancel."
+msgstr ""
+"Đang tải %s…\n"
+"Chạm vào màn hình để hủy."
+
+msgid "Downloading '%s'..."
+msgstr "Đang tải '%s'..."
+
+msgid ""
+"Downloading patch %s%s…\n"
+"Tap screen to cancel."
+msgstr ""
+"Đang tải bản vá %s%s…\n"
+"Chạm vào màn hình để hủy."
+
+msgid "Downloading screensaver..."
+msgstr "Đang tải màn hình chờ..."
+
+msgid "Downloading to shuffle pool..."
+msgstr "Đang tải vào danh sách xáo trộn..."
+
+msgid "Downloading…"
+msgstr "Đang tải…"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Empty"
+msgstr "Trống"
+
+msgid "Empty (0 KB)"
+msgstr "Trống (0 KB)"
+
+msgid "Enable"
+msgstr "Bật"
+
+msgid "Enable patch"
+msgstr "Bật bản vá"
+
+msgid "Enable plugin"
+msgstr "Bật plugin"
+
+msgid "Enabled"
+msgstr "Đã bật"
+
+msgid "Enter item number"
+msgstr "Nhập số thứ tự mục"
+
+msgid "Enter plugin number"
+msgstr "Nhập số thứ tự plugin"
+
+msgid "Failed to check %s: %s"
+msgstr "Kiểm tra %s thất bại: %s"
+
+msgid "Failed to check for Storefront updates: %s"
+msgstr "Kiểm tra bản cập nhật Storefront thất bại: %s"
+
+msgid "Failed to create folder."
+msgstr "Không thể tạo thư mục."
+
+msgid "Failed to create patches directory: %s"
+msgstr "Không thể tạo thư mục bản vá: %s"
+
+msgid "Failed to delete patch: %s"
+msgstr "Xóa bản vá thất bại: %s"
+
+msgid "Failed to delete plugin: %s"
+msgstr "Xóa plugin thất bại: %s"
+
+msgid "Failed to delete: %s"
+msgstr "Xóa thất bại: %s"
+
+msgid "Failed to disable patch '%s'."
+msgstr "Không thể tắt bản vá '%s'."
+
+msgid "Failed to download patch: %s"
+msgstr "Tải bản vá thất bại: %s"
+
+msgid "Failed to download screensaver."
+msgstr "Tải màn hình chờ thất bại."
+
+msgid "Failed to enable patch '%s'."
+msgstr "Không thể bật bản vá '%s'."
+
+msgid "Failed to extract file: "
+msgstr "Giải nén tệp thất bại: "
+
+msgid "Failed to fetch patch list."
+msgstr "Không thể lấy danh sách bản vá."
+
+msgid "Failed to fetch repository '%s/%s': %s"
+msgstr "Không thể tải kho lưu trữ '%s/%s': %s"
+
+msgid "Failed to open downloaded archive."
+msgstr "Không thể mở tệp nén đã tải về."
+
+msgid "Failed to save downloaded file"
+msgstr "Lưu tệp tải về thất bại"
+
+msgid "Failed to toggle patch status."
+msgstr "Không thể chuyển đổi trạng thái bản vá."
+
+msgid "Fetching changelog…"
+msgstr "Đang lấy nhật ký thay đổi…"
+
+msgid "Fetching commits…"
+msgstr "Đang lấy danh sách commit…"
+
+msgid "Fetching patch file listings…"
+msgstr "Đang lấy danh sách tệp bản vá…"
+
+msgid "Fetching patches via Direct GitHub API…"
+msgstr "Đang lấy các bản vá qua GitHub API trực tiếp…"
+
+msgid "Fetching plugins via Direct GitHub API…"
+msgstr "Đang lấy các plugin qua GitHub API trực tiếp…"
+
+msgid "Fetching release info…"
+msgstr "Đang lấy thông tin phát hành…"
+
+msgid "Fetching releases…"
+msgstr "Đang lấy các bản phát hành…"
+
+msgid "Fetching repository %s/%s..."
+msgstr "Đang lấy kho lưu trữ %s/%s..."
+
+msgid "Filename cannot be empty."
+msgstr "Tên tệp không được để trống."
+
+msgid "Filter & Sort Fonts"
+msgstr "Lọc & Sắp xếp phông chữ"
+
+msgid "Filter & Sort Installed"
+msgstr "Lọc & Sắp xếp mục đã cài"
+
+msgid "Filter & Sort Patches"
+msgstr "Lọc & Sắp xếp bản vá"
+
+msgid "Filter & Sort Plugins"
+msgstr "Lọc & Sắp xếp plugin"
+
+msgid "Filter & Sort Screensavers"
+msgstr "Lọc & Sắp xếp màn hình chờ"
+
+msgid "Filter Installed Patches"
+msgstr "Lọc bản vá đã cài"
+
+msgid "Filter Installed Plugins"
+msgstr "Lọc plugin đã cài"
+
+msgid "Filter pre-releases"
+msgstr "Lọc bản thử nghiệm (pre-release)"
+
+msgid "Filter..."
+msgstr "Lọc..."
+
+msgid "Filter: "
+msgstr "Bộ lọc: "
+
+msgid "Filters"
+msgstr "Bộ lọc"
+
+msgid "Filters: "
+msgstr "Bộ lọc: "
+
+msgid "Filters: (none)"
+msgstr "Bộ lọc: (không có)"
+
+msgid "Folder"
+msgstr "Thư mục"
+
+msgid "Folder Shuffle"
+msgstr "Xáo trộn thư mục"
+
+msgid "Folder Shuffle enabled with this wallpaper!"
+msgstr "Đã bật Xáo trộn thư mục cùng hình nền này!"
+
+msgid "Font"
+msgstr "Phông chữ"
+
+msgid "Font '%s' deleted."
+msgstr "Đã xóa phông chữ '%s'."
+
+msgid "Font files not found for %s."
+msgstr "Không tìm thấy tệp phông chữ cho %s."
+
+msgid "Font style"
+msgstr "Kiểu phông chữ"
+
+msgid "Fonts"
+msgstr "Phông chữ"
+
+msgid "Free up storage space on your device. Cached items are re-downloaded automatically when needed."
+msgstr "Giải phóng dung lượng bộ nhớ trên thiết bị của bạn. Các mục đã lưu trong bộ nhớ đệm sẽ được tự động tải lại khi cần."
+
+msgid "GitHub API rate limit exceeded. Add a GitHub token in Storefront settings to increase the limit (10→30 req/min)."
+msgstr "Đã vượt quá giới hạn lượt gọi GitHub API. Hãy thêm token GitHub trong cài đặt Storefront để tăng hạn mức (10→30 yêu cầu/phút)."
+
+msgid "GitHub API rate limit exceeded. Please wait a few minutes and try again."
+msgstr "Đã vượt quá giới hạn lượt gọi GitHub API. Vui lòng đợi vài phút rồi thử lại."
+
+msgid "GitHub personal access token"
+msgstr "Token truy cập cá nhân GitHub"
+
+msgid "GitHub rejected this request: fine-grained personal access tokens are not supported for search. Please use a classic token instead (see the Storefront README)."
+msgstr "GitHub đã từ chối yêu cầu này: token truy cập cá nhân dạng chi tiết (fine-grained) không được hỗ trợ để tìm kiếm. Vui lòng sử dụng token cổ điển (classic) thay thế (xem README của Storefront)."
+
+msgid "GitHub token"
+msgstr "Token GitHub"
+
+msgid "GitHub token saved."
+msgstr "Đã lưu token GitHub."
+
+msgid "Go"
+msgstr "Đi đến"
+
+msgid "Go to page"
+msgstr "Đi đến trang"
+
+msgid "HTTP error"
+msgstr "Lỗi HTTP"
+
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+msgid "Ignore Updates"
+msgstr "Bỏ qua cập nhật"
+
+msgid "Ignored"
+msgstr "Đã bỏ qua"
+
+msgid "Image View"
+msgstr "Xem hình ảnh"
+
+msgid "Include 0-star forks"
+msgstr "Bao gồm các bản fork 0 sao"
+
+msgid "Install"
+msgstr "Cài đặt"
+
+msgid "Install %s"
+msgstr "Cài đặt %s"
+
+msgid "Install Font"
+msgstr "Cài đặt phông chữ"
+
+msgid "Install Patch"
+msgstr "Cài đặt bản vá"
+
+msgid "Install a patch"
+msgstr "Cài đặt một bản vá"
+
+msgid "Install patch from GitHub"
+msgstr "Cài đặt bản vá từ GitHub"
+
+msgid "Install plugin from GitHub"
+msgstr "Cài đặt plugin từ GitHub"
+
+msgid "Install to Default?"
+msgstr "Cài đặt vào thư mục mặc định?"
+
+msgid "Install to default"
+msgstr "Cài đặt vào mặc định"
+
+msgid "Installation failed: "
+msgstr "Cài đặt thất bại: "
+
+msgid "Installation is currently only supported for plugins."
+msgstr "Hiện tại việc cài đặt chỉ được hỗ trợ cho plugin."
+
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+msgid "Installed Patches Settings"
+msgstr "Cài đặt bản vá đã cài"
+
+msgid "Installed Plugins Settings"
+msgstr "Cài đặt plugin đã cài"
+
+msgid "Installed Regular font style offline for \"%s\". Full font family queued for download when reconnected."
+msgstr "Đã cài đặt ngoại tuyến kiểu phông Thường (Regular) cho \"%s\". Toàn bộ bộ phông đã được đưa vào hàng đợi tải về khi có kết nối lại."
+
+msgid "Installed font \"%s\" (%d file(s))."
+msgstr "Đã cài đặt phông chữ \"%s\" (%d tệp)."
+
+msgid "Installed full font family \"%s\" (%d file(s))."
+msgstr "Đã cài đặt đầy đủ bộ phông chữ \"%s\" (%d tệp)."
+
+msgid "Installed patch \"%s\"."
+msgstr "Đã cài đặt bản vá \"%s\"."
+
+msgid "Installing %s…"
+msgstr "Đang cài đặt %s…"
+
+msgid "Invalid archive reader"
+msgstr "Trình đọc tệp nén không hợp lệ"
+
+msgid "Invalid extraction parameters"
+msgstr "Tham số giải nén không hợp lệ"
+
+msgid "Invalid patch target filename."
+msgstr "Tên tệp đích của bản vá không hợp lệ."
+
+msgid "Invalid selection."
+msgstr "Lựa chọn không hợp lệ."
+
+msgid "Invert colors (night mode / dark background)"
+msgstr "Đảo ngược màu (chế độ ban đêm / nền tối)"
+
+msgid "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters."
+msgstr "Có một sự thật được công nhận rộng rãi rằng: một người đàn ông độc thân có tài sản lớn hẳn phải cần một người vợ. Dù tình cảm hay quan điểm của người đó có ít được biết đến thế nào khi mới bước chân vào một vùng lân cận, thì chân lý này vẫn ăn sâu vào tâm trí của các gia đình xung quanh đến mức anh ta được xem là tài sản thuộc về một trong những cô con gái của họ."
+
+msgid "Items per page"
+msgstr "Số mục mỗi trang"
+
+msgid "Items per page: %d"
+msgstr "Số mục mỗi trang: %d"
+
+msgid "Last Updated (Newest)"
+msgstr "Cập nhật lần cuối (Mới nhất)"
+
+msgid "Last Updated (Oldest)"
+msgstr "Cập nhật lần cuối (Cũ nhất)"
+
+msgid "Last check: %s"
+msgstr "Lần kiểm tra cuối: %s"
+
+msgid "Latest Release"
+msgstr "Bản phát hành mới nhất"
+
+msgid "Latest release"
+msgstr "Bản phát hành mới nhất"
+
+msgid "License: %s"
+msgstr "Giấy phép: %s"
+
+msgid "Linked only"
+msgstr "Chỉ mục đã liên kết"
+
+msgid "Loading README..."
+msgstr "Đang tải README..."
+
+msgid "Loading Release Notes..."
+msgstr "Đang tải ghi chú phát hành..."
+
+msgid "Loading Versions..."
+msgstr "Đang tải các phiên bản..."
+
+msgid "Loading Wiki..."
+msgstr "Đang tải Wiki..."
+
+msgid "Local SHA: %s"
+msgstr "SHA cục bộ: %s"
+
+msgid "Local version: %s"
+msgstr "Phiên bản cục bộ: %s"
+
+msgid "Local: %s"
+msgstr "Cục bộ: %s"
+
+msgid "Local: %s → Remote: %s"
+msgstr "Cục bộ: %s → Máy chủ: %s"
+
+msgid "Manage plugin paths"
+msgstr "Quản lý đường dẫn plugin"
+
+msgid ""
+"Manage plugin paths\n"
+"\n"
+"Hiding a path only affects what Storefront shows/manages here. KOReader will still load plugins from it."
+msgstr ""
+"Quản lý đường dẫn plugin\n"
+"\n"
+"Việc ẩn một đường dẫn chỉ ảnh hưởng đến những gì Storefront hiển thị/quản lý tại đây. KOReader vẫn sẽ tải các plugin từ đường dẫn đó."
+
+msgid "Match"
+msgstr "Liên kết"
+
+msgid "Match from List"
+msgstr "Liên kết từ danh sách"
+
+msgid "Match patch with GitHub repository"
+msgstr "Liên kết bản vá với kho lưu trữ GitHub"
+
+msgid "Match plugin with GitHub repository"
+msgstr "Liên kết plugin với kho lưu trữ GitHub"
+
+msgid "Match plugin: %s"
+msgstr "Liên kết plugin: %s"
+
+msgid "Match this remote patch"
+msgstr "Liên kết bản vá từ xa này"
+
+msgid "Match with URL"
+msgstr "Liên kết bằng URL"
+
+msgid "Match with repo"
+msgstr "Liên kết với kho lưu trữ"
+
+msgid "Match with this repo"
+msgstr "Liên kết với kho lưu trữ này"
+
+msgid "Matched %s with %s."
+msgstr "Đã liên kết %s với %s."
+
+msgid "Matched repo: %s/%s"
+msgstr "Kho lưu trữ đã liên kết: %s/%s"
+
+msgid "Matching entries: %s / %s"
+msgstr "Các mục đang liên kết: %s / %s"
+
+msgid "Matching patch: %s — tap to cancel"
+msgstr "Đang liên kết bản vá: %s — chạm để hủy"
+
+msgid "Matching patches: %s (repos: %s / %s)"
+msgstr "Đang liên kết các bản vá: %s (kho: %s / %s)"
+
+msgid "Matching plugin: %s — tap to cancel"
+msgstr "Đang liên kết plugin: %s — chạm để hủy"
+
+msgid "Minimum stars"
+msgstr "Số sao tối thiểu"
+
+msgid "Missing README path"
+msgstr "Thiếu đường dẫn README"
+
+msgid "Missing URL"
+msgstr "Thiếu URL"
+
+msgid "Missing asset download URL."
+msgstr "Thiếu URL tải về tài nguyên."
+
+msgid "Missing font metadata."
+msgstr "Thiếu siêu dữ liệu phông chữ."
+
+msgid "Missing meta path in record."
+msgstr "Thiếu đường dẫn tệp meta trong bản ghi."
+
+msgid "Missing repository info for patch update."
+msgstr "Thiếu thông tin kho lưu trữ để cập nhật bản vá."
+
+msgid "Missing repository info for update."
+msgstr "Thiếu thông tin kho lưu trữ để cập nhật."
+
+msgid "Missing repository metadata for README download."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ để tải README."
+
+msgid "Missing repository metadata for installation."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ để cài đặt."
+
+msgid "Missing repository metadata for patch install."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ để cài đặt bản vá."
+
+msgid "Missing repository metadata for patch."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ cho bản vá."
+
+msgid "Missing repository metadata for releases."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ cho các bản phát hành."
+
+msgid "Missing repository metadata for remote fetch."
+msgstr "Thiếu siêu dữ liệu kho lưu trữ để truy xuất từ xa."
+
+msgid "Missing target path"
+msgstr "Thiếu đường dẫn đích"
+
+msgid "Modify Patch"
+msgstr "Chỉnh sửa bản vá"
+
+msgid "Modify Plugin"
+msgstr "Chỉnh sửa plugin"
+
+msgid "Modify Plugin: %s"
+msgstr "Chỉnh sửa plugin: %s"
+
+msgid "Most Downloaded"
+msgstr "Được tải nhiều nhất"
+
+msgid "Most Popular"
+msgstr "Phổ biến nhất"
+
+msgid "Multiple custom plugin folders are configured. Where should this plugin be installed?"
+msgstr "Nhiều thư mục plugin tùy chỉnh đã được cấu hình. Bạn muốn cài đặt plugin này vào đâu?"
+
+msgid "My wallpaper collection"
+msgstr "Bộ sưu tập hình nền của tôi"
+
+msgid "Name (A-Z)"
+msgstr "Tên (A-Z)"
+
+msgid "Name (Z-A)"
+msgstr "Tên (Z-A)"
+
+msgid "Name, description, topic"
+msgstr "Tên, mô tả, chủ đề"
+
+msgid "Needs update"
+msgstr "Cần cập nhật"
+
+msgid "Needs update: %d"
+msgstr "Cần cập nhật: %d"
+
+msgid "Never"
+msgstr "Không bao giờ"
+
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+msgid "New filename"
+msgstr "Tên tệp mới"
+
+msgid "Next"
+msgstr "Tiếp theo"
+
+msgid "Next >"
+msgstr "Tiếp theo >"
+
+msgid "No Fill (Transparent)"
+msgstr "Không tô màu (Trong suốt)"
+
+msgid "No Lua files found in plugin directory"
+msgstr "Không tìm thấy tệp Lua nào trong thư mục plugin"
+
+msgid "No README available."
+msgstr "Không có README."
+
+msgid "No Release Notes available."
+msgstr "Không có ghi chú phát hành."
+
+msgid "No Wiki available."
+msgstr "Không có Wiki."
+
+msgid "No cached README files to delete."
+msgstr "Không có tệp README nào trong bộ nhớ đệm để xóa."
+
+msgid "No cached entries yet."
+msgstr "Chưa có mục nào trong bộ nhớ đệm."
+
+msgid "No cached entries yet. Refresh to fetch from GitHub."
+msgstr "Chưa có mục nào trong bộ nhớ đệm. Hãy làm mới để lấy dữ liệu từ GitHub."
+
+msgid "No changelog entries found for this range."
+msgstr "Không tìm thấy nhật ký thay đổi nào cho phạm vi này."
+
+msgid "No commits found in this range."
+msgstr "Không tìm thấy commit nào trong phạm vi này."
+
+msgid "No config files found — uncheck filter to show all files"
+msgstr "Không tìm thấy tệp cấu hình nào — bỏ chọn bộ lọc để hiển thị tất cả các tệp"
+
+msgid "No date"
+msgstr "Không có ngày"
+
+msgid "No detailed release notes provided for this version."
+msgstr "Không có ghi chú phát hành chi tiết cho phiên bản này."
+
+msgid "No entries match current filters."
+msgstr "Không có mục nào khớp với bộ lọc hiện tại."
+
+msgid "No installed items found."
+msgstr "Không tìm thấy mục đã cài đặt nào."
+
+msgid "No items found."
+msgstr "Không tìm thấy mục nào."
+
+msgid "No matched patches to check."
+msgstr "Không có bản vá liên kết nào để kiểm tra."
+
+msgid "No matched plugins to check."
+msgstr "Không có plugin liên kết nào để kiểm tra."
+
+msgid "No patch files found in %s/%s."
+msgstr "Không tìm thấy tệp bản vá nào trong %s/%s."
+
+msgid "No patch files found in repository %s."
+msgstr "Không tìm thấy tệp bản vá nào trong kho lưu trữ %s."
+
+msgid "No patches found in matching repositories."
+msgstr "Không tìm thấy bản vá nào trong các kho lưu trữ phù hợp."
+
+msgid "No patches need updates."
+msgstr "Không có bản vá nào cần cập nhật."
+
+msgid "No patches to display."
+msgstr "Không có bản vá nào để hiển thị."
+
+msgid "No plugin files were extracted"
+msgstr "Không có tệp plugin nào được giải nén"
+
+msgid "No plugins need updates."
+msgstr "Không có plugin nào cần cập nhật."
+
+msgid "No plugins to display."
+msgstr "Không có plugin nào để hiển thị."
+
+msgid "No plugins tracked yet."
+msgstr "Chưa có plugin nào được theo dõi."
+
+msgid "No previous page in history"
+msgstr "Không có trang trước trong lịch sử"
+
+msgid "No release notes provided for this version."
+msgstr "Không có ghi chú phát hành nào cho phiên bản này."
+
+msgid "No release notes."
+msgstr "Không có ghi chú phát hành."
+
+msgid "No releases found for this repository."
+msgstr "Không tìm thấy bản phát hành nào cho kho lưu trữ này."
+
+msgid "No remote version info for %s."
+msgstr "Không có thông tin phiên bản từ xa cho %s."
+
+msgid "No screensavers match this filter."
+msgstr "Không có màn hình chờ nào khớp với bộ lọc này."
+
+msgid "No stable releases found — uncheck filter to show all releases"
+msgstr "Không tìm thấy bản phát hành ổn định nào — bỏ chọn bộ lọc để hiển thị tất cả các bản phát hành"
+
+msgid ""
+"No subfolders in this directory.\n"
+"Tap 'Select Folder' below to use it, or '+ New' to create a subfolder."
+msgstr ""
+"Không có thư mục con trong thư mục này.\n"
+"Chạm vào 'Chọn thư mục' bên dưới để sử dụng, hoặc '+ Mới' để tạo thư mục con."
+
+msgid "No tracked plugins to check."
+msgstr "Không có plugin được theo dõi nào để kiểm tra."
+
+msgid ""
+"No wallpapers found in your screensavers folder.\n"
+"\n"
+"Browse the Screensavers catalog in Storefront to download wallpapers!"
+msgstr ""
+"Không tìm thấy hình nền nào trong thư mục màn hình chờ của bạn.\n"
+"\n"
+"Hãy duyệt danh mục Màn hình chờ trong Storefront để tải hình nền!"
+
+msgid "None selected"
+msgstr "Chưa chọn mục nào"
+
+msgid "Not matched with a repository."
+msgstr "Chưa liên kết với kho lưu trữ."
+
+msgid "Not set"
+msgstr "Chưa thiết lập"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offline Regular"
+msgstr "Thường (Ngoại tuyến)"
+
+msgid "Open"
+msgstr "Mở"
+
+msgid "Open Wallpaper Collection Gallery"
+msgstr "Mở bộ sưu tập hình nền"
+
+msgid "Open details"
+msgstr "Mở chi tiết"
+
+msgid "Optional. Raises the GitHub API rate limit. Generate one (classic, 'public_repo' scope is enough) at github.com/settings/tokens, then paste it here."
+msgstr "Tùy chọn. Tăng giới hạn tốc độ gọi GitHub API. Tạo một token (loại classic, chỉ cần phạm vi 'public_repo') tại github.com/settings/tokens, sau đó dán vào đây."
+
+msgid "Options ▾"
+msgstr "Tùy chọn ▾"
+
+msgid "Origin"
+msgstr "Nguồn gốc"
+
+msgid "Owner"
+msgstr "Chủ sở hữu"
+
+msgid "Owner %s"
+msgstr "Chủ sở hữu %s"
+
+msgid "Owner: "
+msgstr "Chủ sở hữu: "
+
+msgid "Pack my box with five dozen liquor jugs."
+msgstr "Hãy xếp vào hộp của tôi năm tá bình rượu."
+
+msgid "Page %d of %d"
+msgstr "Trang %d trên %d"
+
+msgid "Page %d/%d"
+msgstr "Trang %d/%d"
+
+msgid "Pangram Preview"
+msgstr "Xem trước câu toàn chữ (Pangram)"
+
+msgid "Patch"
+msgstr "Bản vá"
+
+msgid "Patch %s has been %s."
+msgstr "Bản vá %s đã được %s."
+
+msgid "Patch '%s' deleted."
+msgstr "Đã xóa bản vá '%s'."
+
+msgid "Patch '%s' disabled."
+msgstr "Đã tắt bản vá '%s'."
+
+msgid "Patch '%s' enabled."
+msgstr "Đã bật bản vá '%s'."
+
+msgid "Patch cache is older than a week, consider refreshing."
+msgstr "Bộ nhớ đệm bản vá đã cũ hơn một tuần, bạn nên làm mới."
+
+msgid "Patch file not found in repository."
+msgstr "Không tìm thấy tệp bản vá trong kho lưu trữ."
+
+msgid "Patch file not found locally."
+msgstr "Không tìm thấy tệp bản vá trên máy."
+
+msgid "Patch file not found."
+msgstr "Không tìm thấy tệp bản vá."
+
+msgid "Patch matching cancelled."
+msgstr "Đã hủy liên kết bản vá."
+
+msgid "Patch: %s"
+msgstr "Bản vá: %s"
+
+msgid "Patches"
+msgstr "Bản vá"
+
+msgid "Patches cached: %s (last update: %s)"
+msgstr "Bản vá trong bộ nhớ đệm: %s (cập nhật lần cuối: %s)"
+
+msgid "Patches found: %d"
+msgstr "Số bản vá tìm thấy: %d"
+
+msgid "Path: %s"
+msgstr "Đường dẫn: %s"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Plugin %s has been %s."
+msgstr "Plugin %s đã được %s."
+
+msgid "Plugin '%s' deleted."
+msgstr "Đã xóa plugin '%s'."
+
+msgid "Plugin '%s' disabled."
+msgstr "Đã tắt plugin '%s'."
+
+msgid "Plugin '%s' enabled."
+msgstr "Đã bật plugin '%s'."
+
+msgid "Plugin and patch browser for KOReader."
+msgstr "Trình duyệt plugin và bản vá cho KOReader."
+
+msgid "Plugin cache is older than a week, consider refreshing."
+msgstr "Bộ nhớ đệm plugin đã cũ hơn một tuần, bạn nên làm mới."
+
+msgid "Plugin directory not found."
+msgstr "Không tìm thấy thư mục plugin."
+
+msgid "Plugin folder not found."
+msgstr "Không tìm thấy thư mục plugin."
+
+msgid "Plugin is not currently loaded, so settings cannot be deleted."
+msgstr "Plugin hiện chưa được tải nên không thể xóa cài đặt."
+
+msgid "Plugins"
+msgstr "Plugin"
+
+msgid "Plugins cached: %s (last update: %s)"
+msgstr "Plugin trong bộ nhớ đệm: %s (cập nhật lần cuối: %s)"
+
+msgid "Pool size: %d wallpapers in rotation"
+msgstr "Kích thước danh sách: %d hình nền trong vòng xoay"
+
+msgid "Pre-installed core KOReader plugin."
+msgstr "Plugin cốt lõi cài sẵn của KOReader."
+
+msgid "Prev"
+msgstr "Trước"
+
+msgid "Published: %s"
+msgstr "Đã phát hành: %s"
+
+msgid "README"
+msgstr "README"
+
+msgid "README download failed: "
+msgstr "Tải README thất bại: "
+
+msgid "README files & images"
+msgstr "Tệp README & hình ảnh"
+
+msgid "Rate Wallpaper"
+msgstr "Đánh giá hình nền"
+
+msgid "Reading Passage Specimen"
+msgstr "Đoạn văn đọc thử nghiệm"
+
+msgid "Reading Progress"
+msgstr "Tiến trình đọc"
+
+msgid "Reading Progress / Summary"
+msgstr "Tiến trình đọc / Tóm tắt"
+
+msgid "Recently Added"
+msgstr "Mới thêm gần đây"
+
+msgid "Refresh"
+msgstr "Làm mới"
+
+msgid "Refresh catalog"
+msgstr "Làm mới danh mục"
+
+msgid "Refreshing catalog via Direct GitHub API…"
+msgstr "Đang làm mới danh mục qua GitHub API trực tiếp…"
+
+msgid "Refreshing catalog..."
+msgstr "Đang làm mới danh mục..."
+
+msgid "Refreshing catalog…"
+msgstr "Đang làm mới danh mục…"
+
+msgid "Refreshing…"
+msgstr "Đang làm mới…"
+
+msgid "Reinstall"
+msgstr "Cài đặt lại"
+
+msgid "Release"
+msgstr "Bản phát hành"
+
+msgid "Release Notes"
+msgstr "Ghi chú phát hành"
+
+msgid "Release notes for %s"
+msgstr "Ghi chú phát hành cho %s"
+
+msgid "Release: %s"
+msgstr "Bản phát hành: %s"
+
+msgid "Releases"
+msgstr "Các bản phát hành"
+
+msgid "Releases — %s"
+msgstr "Bản phát hành — %s"
+
+msgid "Remote SHA: %s"
+msgstr "SHA máy chủ: %s"
+
+msgid "Remote SHA: %s (checked %s)"
+msgstr "SHA máy chủ: %s (đã kiểm tra %s)"
+
+msgid "Remote check failed: "
+msgstr "Kiểm tra từ xa thất bại: "
+
+msgid "Remote version for %s: %s."
+msgstr "Phiên bản từ xa của %s: %s."
+
+msgid "Remote version not found."
+msgstr "Không tìm thấy phiên bản trên máy chủ."
+
+msgid "Remote: %s"
+msgstr "Máy chủ: %s"
+
+msgid "Remote: %s (checked %s)"
+msgstr "Máy chủ: %s (đã kiểm tra %s)"
+
+msgid "Remote: (not checked)"
+msgstr "Máy chủ: (chưa kiểm tra)"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "Remove '%s' from your wallpaper collection?"
+msgstr "Xóa '%s' khỏi bộ sưu tập hình nền của bạn?"
+
+msgid "Remove Wallpaper?"
+msgstr "Xóa hình nền?"
+
+msgid "Rename"
+msgstr "Đổi tên"
+
+msgid "Rename failed: %s"
+msgstr "Đổi tên thất bại: %s"
+
+msgid "Rename file"
+msgstr "Đổi tên tệp"
+
+msgid "Renamed to '%s'."
+msgstr "Đã đổi tên thành '%s'."
+
+msgid "Repo: %s/%s"
+msgstr "Kho: %s/%s"
+
+msgid "Repo: (not matched)"
+msgstr "Kho: (chưa liên kết)"
+
+msgid "Repository"
+msgstr "Kho lưu trữ"
+
+msgid "Repository %s not found on GitHub."
+msgstr "Không tìm thấy kho lưu trữ %s trên GitHub."
+
+msgid "Repository name"
+msgstr "Tên kho lưu trữ"
+
+msgid "Repository owner"
+msgstr "Chủ sở hữu kho lưu trữ"
+
+msgid "Repository: %s"
+msgstr "Kho lưu trữ: %s"
+
+msgid "Reset filters"
+msgstr "Đặt lại bộ lọc"
+
+msgid "Reset to Default Folder"
+msgstr "Đặt lại về thư mục mặc định"
+
+msgid "Reset to default screensaver folder"
+msgstr "Đặt lại về thư mục màn hình chờ mặc định"
+
+msgid "Reset to defaults"
+msgstr "Đặt lại về mặc định"
+
+msgid "Restart later"
+msgstr "Khởi động lại sau"
+
+msgid "Restart now"
+msgstr "Khởi động lại ngay"
+
+msgid "Restore: %s"
+msgstr "Khôi phục: %s"
+
+msgid "Sample Text"
+msgstr "Văn bản mẫu"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Screensaver"
+msgstr "Màn hình chờ"
+
+msgid "Screensaver & Wallpapers"
+msgstr "Màn hình chờ & Hình nền"
+
+msgid "Screensaver Details"
+msgstr "Chi tiết màn hình chờ"
+
+msgid "Screensaver Folder"
+msgstr "Thư mục màn hình chờ"
+
+msgid "Screensaver Mode"
+msgstr "Chế độ màn hình chờ"
+
+msgid "Screensaver Settings"
+msgstr "Cài đặt màn hình chờ"
+
+msgid "Screensaver folder set to '%s'"
+msgstr "Thư mục màn hình chờ được đặt thành '%s'"
+
+msgid "Screensaver mode"
+msgstr "Chế độ màn hình chờ"
+
+msgid "Screensaver thumbnails"
+msgstr "Hình thu nhỏ màn hình chờ"
+
+msgid "Screensavers"
+msgstr "Màn hình chờ"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Search \"%s\""
+msgstr "Tìm kiếm \"%s\""
+
+msgid "Search & API"
+msgstr "Tìm kiếm & API"
+
+msgid "Search filter (\"%s\") is not applied to Updates."
+msgstr "Bộ lọc tìm kiếm (\"%s\") không được áp dụng cho Cập nhật."
+
+msgid "Search text"
+msgstr "Văn bản tìm kiếm"
+
+msgid "Search: "
+msgstr "Tìm kiếm: "
+
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+msgid "Select Categories"
+msgstr "Chọn danh mục"
+
+msgid "Select Folder"
+msgstr "Chọn thư mục"
+
+msgid "Select Screensaver Folder"
+msgstr "Chọn thư mục màn hình chờ"
+
+msgid "Select a repository patch entry to match with the chosen file."
+msgstr "Chọn một mục bản vá từ kho lưu trữ để liên kết với tệp đã chọn."
+
+msgid "Select a repository to match with the chosen plugin."
+msgstr "Chọn một kho lưu trữ để liên kết với plugin đã chọn."
+
+msgid "Select patch file from %s"
+msgstr "Chọn tệp bản vá từ %s"
+
+msgid "Select patch in %s"
+msgstr "Chọn bản vá trong %s"
+
+msgid "Select plugin to match"
+msgstr "Chọn plugin để liên kết"
+
+msgid "Select repository"
+msgstr "Chọn kho lưu trữ"
+
+msgid "Set"
+msgstr "Thiết lập"
+
+msgid "Set Active Single"
+msgstr "Đặt làm hình đơn hoạt động"
+
+msgid "Set Single"
+msgstr "Đặt hình đơn"
+
+msgid "Set as Active"
+msgstr "Đặt làm hình hoạt động"
+
+msgid "Set as active single wallpaper!"
+msgstr "Đã đặt làm hình nền đơn hoạt động!"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Show needs update"
+msgstr "Hiện mục cần cập nhật"
+
+msgid "Show reading progress banner overlay"
+msgstr "Hiển thị biểu ngữ đè tiến trình đọc"
+
+msgid "Shows reading stats, percentage, and chapter progress"
+msgstr "Hiển thị thống kê đọc, phần trăm và tiến trình chương"
+
+msgid "Shows the cover of the book currently being read"
+msgstr "Hiển thị bìa của cuốn sách đang đọc"
+
+msgid "Shuffle (%d)"
+msgstr "Xáo trộn (%d)"
+
+msgid "Shuffle Pool"
+msgstr "Danh sách xáo trộn"
+
+msgid "Single"
+msgstr "Đơn"
+
+msgid "Single Wallpaper"
+msgstr "Hình nền đơn"
+
+msgid "Solid fill for screen margins & letterboxing"
+msgstr "Tô màu đơn sắc cho lề màn hình & khoảng đen viền"
+
+msgid "Sort"
+msgstr "Sắp xếp"
+
+msgid "Sort mode"
+msgstr "Chế độ sắp xếp"
+
+msgid "Sort: A-Z"
+msgstr "Sắp xếp: A-Z"
+
+msgid "Sort: Most Liked"
+msgstr "Sắp xếp: Được thích nhiều nhất"
+
+msgid "Sort: Name (A → Z)"
+msgstr "Sắp xếp: Tên (A → Z)"
+
+msgid "Sort: Name (Z → A)"
+msgstr "Sắp xếp: Tên (Z → A)"
+
+msgid "Sort: Oldest"
+msgstr "Sắp xếp: Cũ nhất"
+
+msgid "Sort: Recently updated"
+msgstr "Sắp xếp: Cập nhật gần đây"
+
+msgid "Sort: Stars (high → low)"
+msgstr "Sắp xếp: Số sao (cao → thấp)"
+
+msgid "Sort: Status"
+msgstr "Sắp xếp: Trạng thái"
+
+msgid "Sort: Type"
+msgstr "Sắp xếp: Loại"
+
+msgid "Sort: Updated"
+msgstr "Sắp xếp: Đã cập nhật"
+
+msgid "Sort: Z-A"
+msgstr "Sắp xếp: Z-A"
+
+msgid "Sorting"
+msgstr "Sắp xếp"
+
+msgid "Stable"
+msgstr "Ổn định"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Status: Needs matching"
+msgstr "Trạng thái: Cần liên kết"
+
+msgid "Status: Up to date"
+msgstr "Trạng thái: Đã mới nhất"
+
+msgid "Status: Update available"
+msgstr "Trạng thái: Có bản cập nhật mới"
+
+msgid "Storefront"
+msgstr "Cửa hàng Storefront"
+
+msgid "Storefront cache refreshed."
+msgstr "Đã làm mới bộ nhớ đệm Storefront."
+
+msgid "Storefront is up to date (v%s)."
+msgstr "Storefront đã là bản mới nhất (v%s)."
+
+msgid "Storefront refresh failed: "
+msgstr "Làm mới Storefront thất bại: "
+
+msgid "Storefront · Updates"
+msgstr "Storefront · Cập nhật"
+
+msgid "Storefront: Open"
+msgstr "Storefront: Mở"
+
+msgid "Stretch image to fill entire screen"
+msgstr "Kéo giãn hình ảnh để lấp đầy toàn màn hình"
+
+msgid "Style: "
+msgstr "Kiểu: "
+
+msgid "Successfully updated %d item(s)."
+msgstr "Đã cập nhật thành công %d mục."
+
+msgid "Switch to installed patches"
+msgstr "Chuyển sang bản vá đã cài"
+
+msgid "Switch to installed plugins"
+msgstr "Chuyển sang plugin đã cài"
+
+msgid "Switch to patch list"
+msgstr "Chuyển sang danh sách bản vá"
+
+msgid "Switch to patches"
+msgstr "Chuyển sang các bản vá"
+
+msgid "Switch to plugin list"
+msgstr "Chuyển sang danh sách plugin"
+
+msgid "Tag not found on GitHub (%s or %s)."
+msgstr "Không tìm thấy thẻ (tag) trên GitHub (%s hoặc %s)."
+
+msgid "Text editor plugin is not available."
+msgstr "Plugin trình soạn thảo văn bản không khả dụng."
+
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr "Con cáo nâu nhanh nhẹn nhảy qua con chó lười biếng."
+
+msgid ""
+"This action cannot be undone.\n"
+"\n"
+"Changes will take effect after restart."
+msgstr ""
+"Thao tác này không thể hoàn tác.\n"
+"\n"
+"Các thay đổi sẽ có hiệu lực sau khi khởi động lại."
+
+msgid "This wallpaper is currently set as your active screensaver."
+msgstr "Hình nền này hiện đang được đặt làm màn hình chờ đang hoạt động của bạn."
+
+msgid "This will delete all cached README files, wiki articles, and screensaver thumbnails (%s)."
+msgstr "Thao tác này sẽ xóa tất cả các tệp README, bài viết wiki và hình thu nhỏ màn hình chờ đã lưu trong bộ nhớ đệm (%s)."
+
+msgid "This will delete cached README markdown files and downloaded images (%s)."
+msgstr "Thao tác này sẽ xóa các tệp markdown README và hình ảnh đã tải về trong bộ nhớ đệm (%s)."
+
+msgid "This will delete cached screensaver thumbnail previews (%s)."
+msgstr "Thao tác này sẽ xóa bản xem trước hình thu nhỏ màn hình chờ trong bộ nhớ đệm (%s)."
+
+msgid "This will delete cached wiki articles and downloaded images (%s)."
+msgstr "Thao tác này sẽ xóa các bài viết wiki và hình ảnh đã tải về trong bộ nhớ đệm (%s)."
+
+msgid "This will take effect on next restart."
+msgstr "Thao tác này sẽ có hiệu lực ở lần khởi động lại tiếp theo."
+
+msgid "Total commits: %d"
+msgstr "Tổng số commit: %d"
+
+msgid "Tracked: %d"
+msgstr "Đã theo dõi: %d"
+
+msgid "Transparent overlay (page content visible behind)"
+msgstr "Lớp phủ trong suốt (có thể thấy nội dung trang phía sau)"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Unable to load wiki page. Tap refresh to retry."
+msgstr "Không thể tải trang wiki. Nhấn làm mới để thử lại."
+
+msgid "Unable to read README file"
+msgstr "Không thể đọc tệp README"
+
+msgid "Unable to read README. Tap refresh to retry."
+msgstr "Không thể đọc README. Nhấn làm mới để thử lại."
+
+msgid "Unable to store match for patch."
+msgstr "Không thể lưu liên kết cho bản vá."
+
+msgid "Unable to store match for plugin."
+msgstr "Không thể lưu liên kết cho plugin."
+
+msgid "Uninstall"
+msgstr "Gỡ cài đặt"
+
+msgid "Unknown"
+msgstr "Không xác định"
+
+msgid "Unknown error"
+msgstr "Lỗi không xác định"
+
+msgid "Unlink the repo"
+msgstr "Hủy liên kết kho lưu trữ"
+
+msgid "Unlinked %s from repository."
+msgstr "Đã hủy liên kết %s khỏi kho lưu trữ."
+
+msgid "Unmatched: %d"
+msgstr "Chưa liên kết: %d"
+
+msgid "Unnamed release"
+msgstr "Bản phát hành chưa đặt tên"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Update %s?"
+msgstr "Cập nhật %s?"
+
+msgid "Update All"
+msgstr "Cập nhật tất cả"
+
+msgid "Update available for %s: remote %s, installed %s."
+msgstr "Có bản cập nhật mới cho %s: máy chủ %s, đã cài đặt %s."
+
+msgid "Update channel"
+msgstr "Kênh cập nhật"
+
+msgid "Update check was cancelled."
+msgstr "Đã hủy quá trình kiểm tra cập nhật."
+
+msgid "Update patch"
+msgstr "Cập nhật bản vá"
+
+msgid "Update plugin"
+msgstr "Cập nhật plugin"
+
+msgid "Updated %d of %d item(s) (%d failed)."
+msgstr "Đã cập nhật %d trên %d mục (%d thất bại)."
+
+msgid "Updated patch \"%s\"."
+msgstr "Đã cập nhật bản vá \"%s\"."
+
+msgid "Updated plugin \"%s\" to version %s."
+msgstr "Đã cập nhật plugin \"%s\" lên phiên bản %s."
+
+msgid "Updated plugin \"%s\"."
+msgstr "Đã cập nhật plugin \"%s\"."
+
+msgid "Updated: %s"
+msgstr "Đã cập nhật: %s"
+
+msgid "Updates"
+msgstr "Cập nhật"
+
+msgid "Updates Ignored"
+msgstr "Bản cập nhật bị bỏ qua"
+
+msgid ""
+"Updating [%d/%d]: %s…\n"
+"Tap screen to cancel."
+msgstr ""
+"Đang cập nhật [%d/%d]: %s…\n"
+"Chạm màn hình để hủy."
+
+msgid "User Installed"
+msgstr "Người dùng đã cài đặt"
+
+msgid "Verifying repository %s/%s..."
+msgstr "Đang xác thực kho lưu trữ %s/%s..."
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Versions"
+msgstr "Các phiên bản"
+
+msgid "View README"
+msgstr "Xem README"
+
+msgid "View commits (%s → %s)"
+msgstr "Xem commit (%s → %s)"
+
+msgid "Wallpaper Collection"
+msgstr "Bộ sưu tập hình nền"
+
+msgid "Wallpaper Options"
+msgstr "Tùy chọn hình nền"
+
+msgid "Wallpaper deleted from device."
+msgstr "Đã xóa hình nền khỏi thiết bị."
+
+msgid "Wallpaper removed"
+msgstr "Đã xóa hình nền"
+
+msgid "Wallpaper saved to collection!"
+msgstr "Đã lưu hình nền vào bộ sưu tập!"
+
+msgid "Wallpaper set as active KOReader screensaver!"
+msgstr "Đã đặt hình nền làm màn hình chờ KOReader đang hoạt động!"
+
+msgid "Wallpaper set as active screensaver!"
+msgstr "Đã đặt hình nền làm màn hình chờ đang hoạt động!"
+
+msgid "Warning: the selected version is older than what is currently installed. You are downgrading."
+msgstr "Cảnh báo: phiên bản đã chọn cũ hơn phiên bản hiện đang cài đặt. Bạn đang hạ cấp phiên bản."
+
+msgid "White Fill"
+msgstr "Tô trắng"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Wiki Pages"
+msgstr "Các trang Wiki"
+
+msgid "Wiki pages & images"
+msgstr "Các trang Wiki & hình ảnh"
+
+msgid "Z -> A"
+msgstr "Z -> A"
+
+msgid "Z → A"
+msgstr "Z → A"
+
+msgid "[ Loading preview... ]"
+msgstr "[ Đang tải bản xem trước... ]"
+
+msgid "[ Wallpaper Preview Loading... ]"
+msgstr "[ Đang tải xem trước hình nền... ]"
+
+msgid "[Ignored]"
+msgstr "[Bị bỏ qua]"
+
+msgid "[draft]"
+msgstr "[bản nháp]"
+
+msgid "[pre]"
+msgstr "[thử nghiệm]"
+
+msgid "about_text"
+msgstr "Storefront là trình quản lý gói tích hợp trong ứng dụng dành cho các plugin, bản vá và phông chữ của KOReader."
+
+msgid "anyone"
+msgstr "bất kỳ ai"
+
+msgid "btn_apply"
+msgstr "Áp dụng"
+
+msgid "btn_back"
+msgstr "< Quay lại"
+
+msgid "btn_cancel"
+msgstr "Hủy"
+
+msgid "btn_close"
+msgstr "Đóng"
+
+msgid "btn_install"
+msgstr "Cài đặt"
+
+msgid "btn_ok"
+msgstr "OK"
+
+msgid "btn_preview"
+msgstr "Xem trước"
+
+msgid "btn_refresh"
+msgstr "Làm mới"
+
+msgid "btn_release_notes"
+msgstr "Ghi chú phát hành"
+
+msgid "btn_restart"
+msgstr "Khởi động lại KOReader"
+
+msgid "btn_retry"
+msgstr "Thử lại"
+
+msgid "btn_search"
+msgstr "Tìm kiếm"
+
+msgid "btn_uninstall"
+msgstr "Gỡ cài đặt"
+
+msgid "btn_update"
+msgstr "Cập nhật"
+
+msgid "btn_view_details"
+msgstr "Xem chi tiết"
+
+msgid "confirm_install"
+msgstr "Cài đặt '%s'?"
+
+msgid "confirm_uninstall"
+msgstr "Gỡ cài đặt '%s'? Hành động này không thể hoàn tác."
+
+msgid "confirm_update"
+msgstr "Cập nhật '%s' từ v%s lên v%s?"
+
+msgid "disabled"
+msgstr "đã tắt"
+
+msgid "e.g., koreader"
+msgstr "ví dụ: koreader"
+
+msgid "enabled"
+msgstr "đã bật"
+
+msgid "err_install_failed"
+msgstr "Cài đặt '%s' thất bại."
+
+msgid "err_network_failed"
+msgstr "Lỗi mạng: Không thể tải danh mục."
+
+msgid "err_uninstall_failed"
+msgstr "Gỡ cài đặt '%s' thất bại."
+
+msgid "filter_all"
+msgstr "Tất cả danh mục"
+
+msgid "filter_installed"
+msgstr "Đã cài đặt"
+
+msgid "filter_updates"
+msgstr "Có bản cập nhật"
+
+msgid "font"
+msgstr "phông chữ"
+
+msgid "ghp_..."
+msgstr "ghp_..."
+
+msgid "header_about"
+msgstr "Giới thiệu"
+
+msgid "header_updates"
+msgstr "Cập nhật"
+
+msgid "label_author"
+msgstr "Tác giả"
+
+msgid "label_description"
+msgstr "Mô tả"
+
+msgid "label_downloads"
+msgstr "Lượt tải về"
+
+msgid "label_license"
+msgstr "Giấy phép"
+
+msgid "label_repository"
+msgstr "Kho lưu trữ"
+
+msgid "label_size"
+msgstr "Kích thước"
+
+msgid "label_type"
+msgstr "Loại"
+
+msgid "label_version"
+msgstr "Phiên bản"
+
+msgid "latest"
+msgstr "mới nhất"
+
+msgid "menu_about"
+msgstr "Giới thiệu Storefront"
+
+msgid "menu_settings"
+msgstr "Cài đặt Storefront"
+
+msgid "menu_storefront"
+msgstr "Cửa hàng Plugin"
+
+msgid "menu_storefront_desc"
+msgstr "Duyệt, cài đặt và cập nhật plugin, bản vá và phông chữ."
+
+msgid "msg_catalog_updated"
+msgstr "Danh mục đã được cập nhật thành công."
+
+msgid "msg_installed_plugin"
+msgstr "Đã cài đặt plugin \"%s\"."
+
+msgid "msg_installed_plugin_version"
+msgstr "Đã cài đặt plugin \"%s\" (phiên bản %s)."
+
+msgid "msg_no_results"
+msgstr "Không tìm thấy mục nào khớp với tìm kiếm."
+
+msgid "new"
+msgstr "mới"
+
+msgid "not found"
+msgstr "không tìm thấy"
+
+msgid "patch"
+msgstr "bản vá"
+
+msgid "plugin"
+msgstr "plugin"
+
+msgid "progress_please_wait"
+msgstr "Vui lòng đợi"
+
+msgid "prompt_restart_needed"
+msgstr "Cài đặt hoàn tất. Khởi động lại KOReader ngay để kích hoạt '%s'?"
+
+msgid "release asset"
+msgstr "tài nguyên phát hành"
+
+msgid "release is newer by date"
+msgstr "bản phát hành có ngày mới hơn"
+
+msgid "remote is newer by date"
+msgstr "máy chủ có ngày mới hơn"
+
+msgid "repository"
+msgstr "kho lưu trữ"
+
+msgid "search_hint"
+msgstr "Tìm kiếm trong storefront..."
+
+msgid "status_builtin"
+msgstr "Tích hợp sẵn"
+
+msgid "status_downloading"
+msgstr "Đang tải về..."
+
+msgid "status_installed"
+msgstr "Đã cài đặt"
+
+msgid "status_installing"
+msgstr "Đang cài đặt..."
+
+msgid "status_not_installed"
+msgstr "Chưa cài đặt"
+
+msgid "status_uninstalling"
+msgstr "Đang gỡ cài đặt..."
+
+msgid "status_update_available"
+msgstr "Có bản cập nhật mới"
+
+msgid "storefront_title"
+msgstr "Cửa hàng Plugin"
+
+msgid "tab_all"
+msgstr "Tất cả"
+
+msgid "tab_fonts"
+msgstr "Phông chữ"
+
+msgid "tab_patches"
+msgstr "Bản vá"
+
+msgid "tab_plugins"
+msgstr "Plugin"
+
+msgid "tab_readme"
+msgstr "README"
+
+msgid "tab_sample_text"
+msgstr "Văn bản mẫu"
+
+msgid "tab_screensavers"
+msgstr "Màn hình chờ"
+
+msgid "tab_versions"
+msgstr "Các phiên bản"
+
+msgid "unknown"
+msgstr "không xác định"
+
+msgid "updated %s"
+msgstr "đã cập nhật %s"
+
+msgid "updated %s (%s)"
+msgstr "đã cập nhật %s (%s)"
+
+msgid "·"
+msgstr "·"
+
+msgid "≥ %s ⭐"
+msgstr "≥ %s ⭐"
+
+msgid "★ ACTIVE"
+msgstr "★ HOẠT ĐỘNG"
+
+msgid "⚙ Settings"
+msgstr "⚙ Cài đặt"
+
+msgid "✓ Current"
+msgstr "✓ Hiện tại"
